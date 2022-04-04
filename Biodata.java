@@ -25,6 +25,4 @@ public class Biodata {
     public void getDreams(String Dreams){
         System.out.println("Cita-cita = "+Dreams);
     }
-    
-    
 }
